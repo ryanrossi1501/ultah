@@ -154,7 +154,7 @@ const _slideLima = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", `Saya ${a[0]} pada hari ${timestring} dengan sepenuh hati mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya`, , " ", "Wassalamualakaikum Wr. Wb", " ", "- "+a[0]],
+  strings: ["Assalamualaikum Wr. Wb", " ", `Saya ${a[0]} pada hari ${timestring} dengan sepenuh hati mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga sayang panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya`, , " ", "Wassalamualaaikum Wr. Wb", " ", "- "+a[0]],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
